@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Jeu de Dame/CollectionViewController.swift"
+            timestampString = "550761744.624187"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "142"
+            endingLineNumber = "142"
+            landmarkName = "handlePanGesture(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Jeu de Dame/CollectionViewController.swift"
+            timestampString = "550761744.62694"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "175"
+            endingLineNumber = "175"
+            landmarkName = "handlePanGesture(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Jeu_de_Dame.CollectionViewController.handlePanGesture(__ObjC.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "Jeu de Dame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/XCode%20Project/Cours%20et%20TP/TP2/Jeu%20de%20Dame/Jeu%20de%20Dame/CollectionViewController.swift"
+                  timestampString = "550761655.946017"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "6915">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in Jeu_de_Dame.CollectionViewController.handlePanGesture(__ObjC.UIPanGestureRecognizer) -&gt; ()"
+                  moduleName = "Jeu de Dame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macossierra/Desktop/XCode%20Project/Cours%20et%20TP/TP2/Jeu%20de%20Dame/Jeu%20de%20Dame/CollectionViewController.swift"
+                  timestampString = "550761655.950115"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "175"
+                  endingLineNumber = "175"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
